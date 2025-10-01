@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-Happiness549#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "uuid": "^13.0.0"
   }
 }
